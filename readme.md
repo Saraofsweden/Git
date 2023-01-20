@@ -11,8 +11,10 @@ hanteringssystem och inkluderar:
 ## Uppgift
 - Skapa ett nytt publikt, tomt remote repository och  
 projekt på Github.  
-- Skapa en README.md-fil med markdown för övning.   
-** Vilket är detta dokument.**  
+- Skapa en README.md-fil med markdown för övning.
+\
+\
+**Vilket är detta dokument**  
 
 ---  
   
